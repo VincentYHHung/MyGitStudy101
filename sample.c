@@ -1,4 +1,4 @@
-This is a sample C code for git study.sdf
+This is a sample C code for git study.sdf QWQWQWQWQWQ
 sdfsdf
 md 1
 md 2sdf
